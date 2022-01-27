@@ -1,6 +1,6 @@
 ### Olá! Me chamo Lucas Pádua
 - 🌱 Desenvolvedor Web Full-Stack Jr
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 
 ##
 
